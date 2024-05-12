@@ -45,7 +45,10 @@ body{
     justify-content: space-between;
     align-items: center;
 }
-
+.heading_name h1{
+    font-size: 20px;
+    color: #298c94;
+}
 .volume{
     z-index: 5;
 }
